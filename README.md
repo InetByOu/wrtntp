@@ -1,0 +1,2 @@
+# wrtntp
+OpenWRT ntp sync
